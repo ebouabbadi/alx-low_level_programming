@@ -1,8 +1,6 @@
 #include <stdio.h>
 
-/*
-Hello, puts
-*/
+//Hello, puts
 
 int main(void)
 {
