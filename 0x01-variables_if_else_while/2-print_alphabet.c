@@ -1,10 +1,7 @@
 #include <unistd.h>
 
 /**
- * main A program
- *
- * description: Write a program that prints the alphabet in lowercase,
- * followed by a new line.
+ * main - A program
  *
  * Return: Always 0 (Sucsess)
  */
